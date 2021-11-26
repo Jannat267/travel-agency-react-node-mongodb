@@ -1,0 +1,15 @@
+.top-banner {
+	background-image: url('https://image.freepik.com/free-photo/travel-concept-with-worldwide-landmarks_23-2149153263.jpg');
+	height: 80vh;
+	position: absolute;
+	width: 100%;
+	opacity: 0.3;
+	
+	background-position: center;
+	background-repeat: no-repeat;
+
+}
+
+.custom-card {
+	margin-top: 150px;
+}
